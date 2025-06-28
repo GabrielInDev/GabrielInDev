@@ -2,9 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-✨ Olá! Me chamo Gabriel Pereira Mota, tenho 21 anos e sou natural de Taboão da Serra, SP.
-
-🎓 Concluí o ensino médio e atualmente sou estudante de Técnico em Informática no Senac Taboão da Serra.
+✨ Olá! Me chamo Gabriel Pereira Mota, tenho 21 anos.
 
 💻 Apaixonado por tecnologia, programação e inovação, sou fundador da SoftTech Inovations(https://www.instagram.com/softtechinovations/)
 
